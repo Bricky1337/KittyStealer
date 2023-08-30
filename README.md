@@ -1,6 +1,5 @@
-😼 KittyStealer 😼
-![image](https://github.com/Bricky1337/KittyStealer/assets/143651065/6f13565b-daa6-4918-91d2-5e45cbaf8c99)
-
+# 😼 KittyStealer 😼
+![image](https://github.com/Bricky1337/KittyStealer/assets/143651065/2e16b2e7-6f6b-4017-a38b-cca2e3350838)
 
 # 🔱 Data extraction:
 AntiAnalysis (VirtualBox, SandBox, Debugger, VirusTotal, Any.Run)
